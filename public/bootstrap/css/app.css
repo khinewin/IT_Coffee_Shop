@@ -1,0 +1,72 @@
+#footer{
+    text-align: center;
+}
+
+#navBar li a {
+    color: #2a88bd;
+    font-size: 12px;
+}
+
+#navBar a {
+    color: red;
+    font-size: 25px;
+}
+#authForm{
+    margin-top: 100px;
+}
+#authForm #pageHeader {
+    color: orangered;
+    font-size: 25px;
+    text-align: center;
+}
+li {
+    list-style: none;
+}
+#adminPageHeader {
+    margin-top: 30px;
+}
+#dropdown-menu li a {
+    font-size: 12px;
+    color: #2a88bd;
+}
+
+#MainContainer{
+    margin-top: 70px;
+    margin-bottom: 30px;
+}
+#pagination{
+    margin: 0;
+    padding:0;
+    text-align: center;
+}
+.caption h3 {
+    color: orangered;
+}
+.caption p {
+    color: #0d6aad;
+}
+#coffeeImage {
+    height: 100px;
+    width : 100px;
+
+
+}
+#adminCoffeeImg {
+    height: 30px;
+    width: 30px;
+}
+#clearCart {
+    color: #fff;
+    font-size: 12px;
+}
+#reduceItem li a{
+    font-size: 12px;
+    color: #2aabd2;
+}
+.shopHeader {
+    text-align: center;
+}
+#printContainer {
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
